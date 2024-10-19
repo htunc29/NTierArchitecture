@@ -69,6 +69,8 @@
     <Compile Include="Concrete\CommentManager.cs" />
     <Compile Include="Concrete\CustomerManager.cs" />
     <Compile Include="Concrete\ProductManager.cs" />
+    <Compile Include="FluentValidation\CommentValidator.cs" />
+    <Compile Include="FluentValidation\CustomerValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
